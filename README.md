@@ -13,3 +13,5 @@ repository for all my #Rusty28Days Code Challenges
 [day5 traits and generics](./rusty5day/5.md)
 
 [day6 crates, modules and common collections](./rusty6day/6.md)
+
+[day7 - 9, error handling and testing](./rusty7-9day/7.md)
