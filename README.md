@@ -15,3 +15,5 @@ repository for all my #Rusty28Days Code Challenges
 [day6 crates, modules and common collections](./rusty6day/6.md)
 
 [day7 - 9, error handling and testing](./rusty7-9day/7.md)
+
+[day10, Iterators and Closures](./rusty10day/10.md)
