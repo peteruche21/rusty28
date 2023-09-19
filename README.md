@@ -17,3 +17,5 @@ repository for all my #Rusty28Days Code Challenges
 [day7 - 9, error handling and testing](./rusty7-9day/7.md)
 
 [day10, Iterators and Closures](./rusty10day/10.md)
+
+[day11, Pointers](./rusty11day/11.md)
