@@ -19,3 +19,5 @@ repository for all my #Rusty28Days Code Challenges
 [day10, Iterators and Closures](./rusty10day/10.md)
 
 [day11, Pointers](./rusty11day/11.md)
+
+[day12, Concurrency](./rusty12day/12.md)
