@@ -21,3 +21,5 @@ repository for all my #Rusty28Days Code Challenges
 [day11, Pointers](./rusty11day/11.md)
 
 [day12, Concurrency](./rusty12day/12.md)
+
+[day13, Macros and Unsafe Code](./rusty13day/13.md)
